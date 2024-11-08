@@ -27,3 +27,6 @@ This project analyzes CitiBike data exclusively from Jersey City for the year 20
 
 ## Conclusion
 The project provided actionable insights into the CitiBike usage in Jersey City for 2023, identifying top stations, peak usage times, and differences between user types. These findings can help enhance operational strategies, optimize station placements, and improve user experiences in future bike-sharing programs.
+
+**Widchy Joachim**
+*Data Analyst*
